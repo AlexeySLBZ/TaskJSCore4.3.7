@@ -1,0 +1,9 @@
+{
+    "user": {
+        "username": "vasilii163",
+        "email": "vasilii163@vasilii163.ru",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVmODllMzkxNjk5ZDE2MDMyNDZmZDcyYSIsInVzZXJuYW1lIjoidmFzaWxpaTE2MyIsImV4cCI6MTYwODIzNDc5NCwiaWF0IjoxNjAzMDQ3MTk0fQ.LqcXyrxsq6ThujC6WPNmy6A4Ow4441xaBtkCiZAgJMQ"
+    }
+}
+
+Alakazam 2410
